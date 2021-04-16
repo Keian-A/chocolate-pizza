@@ -8,6 +8,8 @@ Author(s): Carlos De La Cantera, Keian Anthony
 
 Links and Resources
 
+https://meyerweb.com/eric/tools/css/reset/
+
 Reflections and Comments
 
 Carlos's branch will be under the name "carlos"
