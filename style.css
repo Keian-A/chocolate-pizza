@@ -1,0 +1,35 @@
+
+/* "Delicious" */
+/* font-family: 'Yellowtail', cursive; */
+
+/* "Best food blog" */
+/* font-family: 'Open Sans Condensed', sans-serif; */
+
+header {
+  width: 901px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+header section {
+  display: flex;
+  margin: 20px 0;
+}
+
+header section article h1 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 35px;
+  margin-left: 5px;
+}
+
+header section article h2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 11px;
+  margin-left: 10px;
+  color: gray;
+}
+
+header section ul {
+  display: flex;
+}
