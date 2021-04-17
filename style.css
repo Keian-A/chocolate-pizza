@@ -1,107 +1,108 @@
-/* "Delicious" */
-/* font-family: 'Yellowtail', cursive; */
 
-/* "Best food blog" */
-/* font-family: 'Open Sans Condensed', sans-serif; */
+/* "Delicious" */
+/* font-family: 'Yellowtail', cursive; */
 
-header {
-  width: 901px;
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
+/* "Best food blog" */
+/* font-family: 'Open Sans Condensed', sans-serif; */
+
+header {
+  width: 901px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
 }
 
-header section {
-  display: flex;
-  margin: 20px 0;
+header section {
+  display: flex;
+  margin: 20px 0;
 }
 
-.line {
-  height: 8px;
-  background: repeating-linear-gradient(45deg,white 10px, gray 12px);
-  width: 901px;
-  margin: 0 auto;
+.line {
+  height: 8px;
+  background: repeating-linear-gradient(45deg,white 10px, gray 12px);
+  width: 901px;
+  margin: 0 auto;
 }
 
-header section article h1 {
-  font-family: 'Yellowtail', cursive;
-  font-size: 35px;
-  margin-left: 5px;
+header section article h1 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 35px;
+  margin-left: 5px;
 }
 
-header section article h2 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 11px;
-  margin-left: 10px;
-  color: gray;
+header section article h2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 11px;
+  margin-left: 10px;
+  color: gray;
 }
 
-header section ul {
-  display: flex;
-  padding: 5px;
+header section ul {
+  display: flex;
+  padding: 5px;
 }
 
-header section ul li {
-  border-left: solid white 2px;
+header section ul li {
+  border-left: solid white 2px;
 }
 
-li:nth-child(5) {
-  border-left: solid white 1px;
+li:nth-child(5) {
+  border-left: solid white 1px;
 }
 
-li:nth-child(6) {
-  border-left: solid white 1px;
+li:nth-child(6) {
+  border-left: solid white 1px;
 }
 
-main section article h1 {
-  font-family: 'Antonio', sans-serif;
-  font-size: 37px;
+main section article h1 {
+  font-family: 'Antonio', sans-serif;
+  font-size: 37px;
 }
 
-main section article h2 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 13px;
-  color: lightgrey;
-  margin-top: 5px;
+main section article h2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 13px;
+  color: lightgrey;
+  margin-top: 5px;
 }
 
-main section article {
-  width: 901px;
-  margin: 0 auto;
-  margin-top: 40px;
+main section article {
+  width: 901px;
+  margin: 0 auto;
+  margin-top: 40px;
 }
 
-main section:not(#pgraphs) {
-  justify-content: space-between;
-  display: flex;
-  width: 901px;
-  margin: 0 auto;
+main section:not(#pgraphs) {
+  justify-content: space-between;
+  display: flex;
+  width: 901px;
+  margin: 0 auto;
 }
 
-#print {
-  display: flex;
-  justify-content: flex-end;
+#print {
+  display: flex;
+  justify-content: flex-end;
 }
 
-#print img {
-  width: 13px;
-  height: 10px;
+#print img {
+  width: 13px;
+  height: 10px;
 }
 
-.paragraphs {
-  width: 901px;
-  margin: 25px auto;
-  font-size: 16px;
-  font-family: 'Merriweather', serif;
-  text-indent: 40px;
-  color: rgb(92, 109, 53);
-  
+.paragraphs {
+  width: 901px;
+  margin: 25px auto;
+  font-size: 16px;
+  font-family: 'Merriweather', serif;
+  text-indent: 40px;
+  color: rgb(92, 109, 53);
+  
 }
 
-p {
-  line-height: 25px;
+p {
+  line-height: 25px;
 }
 
-#ingredients {
-  background: url(./img/list-bg.png);
+#ingredients {
+  background: url(./img/list-bg.png);
 }
